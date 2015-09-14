@@ -2,7 +2,7 @@
 
 - Install smartVISU 2.8 ( https://github.com/Martin-Gleiss/smartvisu )
 - Download herrmannj's smartvisu-cleaninstall ( https://github.com/herrmannj/smartvisu-cleaninstall/archive/master.zip )
-- Copy the following files from smartvisu-cleaninstall-master.zip to your smartVISU 2.8 directory (yes, to have to overwrite some files)
+- Copy the following files from smartvisu-cleaninstall-master.zip to your smartVISU 2.8 directory (you have to overwrite some files)
 
 ```
 ./readme.txt
