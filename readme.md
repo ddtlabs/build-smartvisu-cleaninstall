@@ -15,7 +15,7 @@
 ```
 
 To migrate from smartVISU 2.7 to 2.8:
-- copy your pages folder to smartVISU 2.8
+- copy your pages folder and any other add files to smartVISU 2.8
 - copy your config.ini to smartVISU 2.8
 
 To start a new installation:
