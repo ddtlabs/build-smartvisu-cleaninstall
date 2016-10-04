@@ -22,3 +22,5 @@ To start a new installation:
 - rename/copy config.ini.default to config.ini
 
 That's all.
+
+Edit 2016-10-03: Official smartVISU 2.8 release already contains io_fhem.* driver files. Use these file and do not overwrite them.
