@@ -1,6 +1,7 @@
 ####Build your own smartvisu-cleaninstall for use with fronthem:
 
-- Install smartVISU 2.8 ( https://github.com/Martin-Gleiss/smartvisu )
+- ~~Install smartVISU 2.8 ( https://github.com/Martin-Gleiss/smartvisu )~~~
+- Install smartVISU 2.8 ( http://www.smartvisu.de/download/smartVISU_2.8.zip )
 - Download herrmannj's smartvisu-cleaninstall ( https://github.com/herrmannj/smartvisu-cleaninstall/archive/master.zip )
 - Copy the following files from smartvisu-cleaninstall-master.zip to your smartVISU 2.8 directory (you have to overwrite some files)
 
