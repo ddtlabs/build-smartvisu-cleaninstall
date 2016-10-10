@@ -11,8 +11,6 @@
 ./lib/includes.php
 ./config.ini.default
 ./pages/base/configure.php
-./driver/io_fhem.js
-./driver/io_fhem.min.js
 ```
 
 To migrate from smartVISU 2.7 to 2.8:
